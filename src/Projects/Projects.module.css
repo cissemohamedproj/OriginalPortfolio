@@ -173,17 +173,18 @@
 }
 @media screen and (max-width: 450px) {
 
-
-    /* .card{
-        width: 150px;
-    } */
+    .boxBtn{
+        flex-direction: column;
+    }
 
     .text{
         font-size: 2rem;
     }
 
     .boxBtn button{
-        width: 22vw;
+        width: 100%;
+        margin: 1.4rem auto;
+        font-size: 1.5rem;
     }
 }
 

@@ -198,6 +198,11 @@
         font-size: 1.3rem;
         margin: 1rem auto;
     }
+
+    .profile .description{
+        font-size: 1.5rem;
+        line-height: 1.9rem;
+    }
      .boxText h2{
         font-size: 3rem;
     }
@@ -206,18 +211,28 @@
         font-size: 1.1rem;
     }
 
+    .box .right{
+        margin-bottom: 2rem;
+        height: 100%;
+        padding-bottom: 3rem;
+    }
+
     .box .right h3{
-        font-size: 1.5rem;
+        font-size: 1.9rem;
         text-align: center;
         margin: 0.4rem auto;
     }
 
     .box .right .content h4{
-        font-size: 1.2rem;
+        font-size: 1.6rem;
+    }
+    .box .right .content p{
+        font-size: 1.4rem;
     }
 
     .box .right .content .icon{
         width: 15vw;
+        display: none;
     }
 
     .box .right .content{

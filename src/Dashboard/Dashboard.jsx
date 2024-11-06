@@ -64,7 +64,7 @@ export default function Dashboard(){
 
         <div className={classes.containerPage}>
 
-        <TiArrowSortedUp onClick={() => setHideDachboard(false)} className={classes.arrowRight}  size={60}/>
+        <TiArrowSortedUp onClick={() => setHideDachboard(false)} className={hideDashboard ? classes.arrowRight : classes.arrowRemove }  size={60}/>
           {selectedContent}
         </div>
 

@@ -90,6 +90,7 @@ html{
 
     .container{
         width: 100%;
+        overflow: auto;
     }
 
     .show, .anshow{

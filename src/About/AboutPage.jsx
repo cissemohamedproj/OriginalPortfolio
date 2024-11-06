@@ -12,8 +12,7 @@ export default function AboutPage(){
                     <h1 className='title'> Qui suis-je ?</h1>
                     <p className={classes.name}>Je suis <span>Cissé Mohamed,</span> Développeur <span>web/mobile,</span> Full Stack </p>
                     <p className={classes.description}>
-                        Développeur web avec 3 ans d'expérience en freelance, spécialisé dans la création de sites front-end et full stack. Je maîtrise les technologies HTML, CSS, JavaScript, React.js, Node.js et Flutter pour le développement d'applications Android. Je suis capable de fournir des solutions innovantes et efficaces, tout en étant toujours à la recherche de nouvelles opportunités pour enrichir mes compétences.
-                    </p>
+                    Développeur web et mobile avec plus de trois ans d'expérience, je suis spécialisé dans la création de solutions complètes et performantes, allant de sites front-end modernes et réactifs aux applications mobiles robustes. Freelance polyvalent, je maîtrise des technologies innovante, ce qui me permet de concevoir des projets adaptés aux besoins de mes clients. Mon expertise s'étend également à la création d'applications Android et au développement full stack, garantissant une parfaite intégration et une expérience utilisateur optimisée.                    </p>
                 </div>
 
                 <div className={classes.box}>

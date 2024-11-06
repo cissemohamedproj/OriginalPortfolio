@@ -114,8 +114,13 @@ button .icon{
     position: fixed;
     left: -3%;
     bottom: 30%;
+    z-index: 1;
     transform: rotate(90deg);
     animation: rotation .5s infinite linear;
+}
+
+.arrowRemove{
+    display: none;
 }
 
 
